@@ -1,0 +1,3 @@
+Symbol: com/isep/productc/model/Product#
+Error message: com/isep/productc/model/Product#
+Error: scala.meta.internal.mtags.IndexingExceptions$InvalidSymbolException: com/isep/productc/model/Product#
